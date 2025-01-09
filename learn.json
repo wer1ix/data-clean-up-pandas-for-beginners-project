@@ -7,6 +7,7 @@
     "description": "This project is designed to teach how to handle real-world data in a basic data science workflow, such as cleaning, processing, and visualizing a dataset using key tools like Pandas.",
     "duration": 3,
     "difficulty": "easy",
+    "solution": "https://github.com/breatheco-de/final-data-science-prework-project/tree/solution",
     "projectType": "project",
     "technologies": ["pandas", "numpy", "opencv", "matplotlib", "ipyleaflet", "scikit-learn", "jupyter notebook", "machine learning", "data science"]
 }
