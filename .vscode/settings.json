@@ -5,5 +5,8 @@
   },
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 700,
-  "editor.minimap.enabled": false
+  "editor.minimap.enabled": false,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
 }
